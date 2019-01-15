@@ -1,6 +1,6 @@
 #
 # BlackJack : NAF Culmination Project
-# Authors: John Huang, Lisa Oommen, Logan Short, and Connor McQuillen
+# Authors: John Huang
 # January 3, 2018
 # 
 # Bugs: 
